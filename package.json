@@ -1,5 +1,5 @@
 {
-  "name": "aurelia-viewmodels",
+  "name": "aurelia-components",
   "version": "0.2.0",
   "description": "A plugin for Aurelia based projects.",
   "keywords": [
@@ -8,13 +8,13 @@
   ],
   "author": "Giovanni Lovato <heruan@aldu.net>",
   "license": "CC0-1.0",
-  "homepage": "https://github.com/heruan/aurelia-viewmodels",
+  "homepage": "https://github.com/heruan/aurelia-components",
   "bugs": {
-    "url": "https://github.com/heruan/aurelia-viewmodels/issues"
+    "url": "https://github.com/heruan/aurelia-components/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heruan/aurelia-viewmodels.git"
+    "url": "https://github.com/heruan/aurelia-components.git"
   },
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
