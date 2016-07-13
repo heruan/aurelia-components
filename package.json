@@ -1,6 +1,6 @@
 {
   "name": "aurelia-components",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A plugin for Aurelia based projects.",
   "keywords": [
     "aurelia",
@@ -22,7 +22,7 @@
     "test": "gulp test"
   },
   "dependencies": {
-    "aurelia-binding": "^1.0.0-rc.1.0.1",
+    "aurelia-binding": "^1.0.0-rc.1.0.2",
     "aurelia-router": "^1.0.0-rc.1.0.0",
     "aurelia-templating": "^1.0.0-rc.1.0.0"
   },
@@ -32,11 +32,12 @@
     "del": "^2.2.1",
     "gulp": "^3.9.1",
     "gulp-jasmine": "^2.4.0",
-    "gulp-tsb": "^1.10.4",
+    "gulp-typescript": "^2.13.6",
     "jasmine": "^2.4.1",
     "jasmine-reporters": "^2.2.0",
-    "run-sequence": "^1.2.1",
-    "typescript": "^1.8.10",
+    "merge2": "^1.0.2",
+    "run-sequence": "^1.2.2",
+    "typescript": "^2.0.0-dev.20160707",
     "vinyl-paths": "^2.1.0"
   }
 }
