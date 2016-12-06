@@ -1,6 +1,6 @@
-import {RouteConfig, NavigationInstruction} from "aurelia-router";
-import {ViewPort} from "./view-port";
-import {AbstractComponent} from "./abstract-component";
+import { RouteConfig, NavigationInstruction} from "aurelia-router";
+import { ViewPort} from "./view-port";
+import { AbstractComponent} from "./abstract-component";
 
 export abstract class AbstractViewPort extends AbstractComponent implements ViewPort {
 

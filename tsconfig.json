@@ -8,8 +8,8 @@
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true
   },
-  "compileOnSave": false,
   "exclude": [
     "node_modules"
-  ]
+  ],
+  "compileOnSave": false
 }

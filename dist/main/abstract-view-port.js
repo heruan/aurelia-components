@@ -8,7 +8,7 @@ var abstract_component_1 = require("./abstract-component");
 var AbstractViewPort = (function (_super) {
     __extends(AbstractViewPort, _super);
     function AbstractViewPort() {
-        _super.apply(this, arguments);
+        return _super.apply(this, arguments) || this;
     }
     AbstractViewPort.prototype.canActivate = function (params, routeConfig, navigationInstruction) {
         return Promise.resolve(true);

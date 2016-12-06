@@ -1,4 +1,4 @@
-import {View} from "aurelia-templating";
+import { View} from "aurelia-templating";
 
 export interface Component {
 

@@ -1,5 +1,5 @@
-import {View} from "aurelia-templating";
-import {Component} from "./component";
+import { View} from "aurelia-templating";
+import { Component} from "./component";
 
 export abstract class AbstractComponent implements Component {
 
