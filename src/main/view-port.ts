@@ -1,5 +1,5 @@
-import { RouteConfig, NavigationInstruction} from "aurelia-router";
-import { Component} from "./component";
+import { RouteConfig, NavigationInstruction } from "aurelia-router";
+import { Component } from "./component";
 
 export interface ViewPort extends Component {
 
