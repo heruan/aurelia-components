@@ -15,3 +15,5 @@ var AbstractComponent = (function () {
     return AbstractComponent;
 }());
 exports.AbstractComponent = AbstractComponent;
+
+//# sourceMappingURL=abstract-component.js.map
